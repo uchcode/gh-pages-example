@@ -23,3 +23,5 @@ whitelist:
   - jemoji
   - jekyll-remote-theme
   - jekyll-include-cache
+
+paginate: 5
